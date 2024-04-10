@@ -1,0 +1,8 @@
+<template>
+
+    <GlobalAppHeader/>
+    
+    
+
+    <GlobalAppFooter/>
+</template>
